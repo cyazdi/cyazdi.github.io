@@ -1,6 +1,6 @@
 body{
     color: rgb(255, 230, 0);
-    background: rgb(26, 26, 26);
+    background: rgb(30, 0, 60);
     font-family: Arial, Helvetica, sans-serif
 }
 h1{
@@ -15,7 +15,7 @@ h2{
     display: flex;
     padding: 10px;
     margin: 10px;
-    background: rgb(26, 26, 26);
+    background: rgb(0, 0, 0);
 
     
 }
